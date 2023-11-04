@@ -1,7 +1,7 @@
 {
  "display": "fullscreen",
  "theme_color": "#FFFFFF",
- "name": "CT PHOENIX - Embu das Artes",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -40,6 +40,6 @@
   }
  ],
  "start_url": "index.htm",
- "background_color": "#FFFFFF",
+ "name": "CT PHOENIX - Embu das Artes",
  "description": "Av. Elias Yazbek, 2208 - Centro, Embu das Artes - SP"
 }
